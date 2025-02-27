@@ -1,0 +1,23 @@
+{
+  "name": "httpendpoints",
+  "version": "1.0.0",
+  "description": "Aplicar los conceptos de negociación de contenido, Etag y control de caché en un servicio RESTful utilizando Node.js y Express",
+  "main": "etagCacheNegociacion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node etagCacheNegociacion.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Armas/Sistemas-Red-Practicas.git"
+  },
+  "author": "Gabriel Armas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Armas/Sistemas-Red-Practicas/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Armas/Sistemas-Red-Practicas#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
